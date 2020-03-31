@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="de.solugo.nexus.nexus-core-jlwgl.jvmJlwglMain" target="1.6" />
+      <module name="de.solugo.nexus.nexus-core-jlwgl.jvmJlwglTest" target="1.6" />
+      <module name="de.solugo.nexus.nexus-core-jvm-jlwgl.jvmMain" target="1.6" />
+      <module name="de.solugo.nexus.nexus-core-jvm-jlwgl.jvmTest" target="1.6" />
+      <module name="de.solugo.nexus.nexus-core.jlwglMain" target="1.6" />
+      <module name="de.solugo.nexus.nexus-core.jlwglTest" target="1.6" />
+      <module name="de.solugo.nexus.nexus-core.jvmJlwglMain" target="1.6" />
+      <module name="de.solugo.nexus.nexus-core.jvmJlwglTest" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

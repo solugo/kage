@@ -1,0 +1,11 @@
+out/
+build/
+classes/
+/.gradle/
+.idea/*
+*.iml
+!.idea/codeStyleSettings.xml
+!.idea/runConfigurations
+!.idea/inspectionProfiles
+!.idea/compiler.xml
+.gradletasknamecache
